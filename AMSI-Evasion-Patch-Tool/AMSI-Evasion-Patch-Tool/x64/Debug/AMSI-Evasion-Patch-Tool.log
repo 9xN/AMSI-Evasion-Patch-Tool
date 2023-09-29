@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\gnp\source\repos\AMSI-Evasion-Patch-Tool\AMSI-Evasion-Patch-Tool\Source.cpp(9,18): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\gnp\source\repos\AMSI-Evasion-Patch-Tool\AMSI-Evasion-Patch-Tool\Source.cpp(9,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\gnp\source\repos\AMSI-Evasion-Patch-Tool\AMSI-Evasion-Patch-Tool\Source.cpp(94): warning C4715: 'patchLogic': not all control paths return a value
+  AMSI-Evasion-Patch-Tool.vcxproj -> C:\Users\gnp\source\repos\AMSI-Evasion-Patch-Tool\x64\Debug\AMSI-Evasion-Patch-Tool.exe
